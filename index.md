@@ -4,7 +4,7 @@
   </head>
   <h1>Anukriti Bhatnagar</h1>
   <p>
-    <img src="Screenshot_20191202-221649_WhatsApp.png" alt="Anukriti's profile picture" bgcolor="purple" height:250px;width:260px">
+    <img src="Screenshot_20191202-221649_WhatsApp.png" alt="Anukriti's profile picture"  height:250px;width:260px">
     <hr >
     Hey!!! Welcome to my first webpage
     <style=" width:250px;height:10px"
